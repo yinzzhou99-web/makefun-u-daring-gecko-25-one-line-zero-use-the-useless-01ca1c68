@@ -5,6 +5,9 @@ entry.txt in the output directory (MAKEFUN_OUTPUT_DIR, default /output).
 Standard library only. The line is judged on naming a useless superpower,
 landing a laugh with a payoff in the last few words, freshness, tight
 wording, and specific, vivid uselessness.
+
+Chosen line: sensing Wi-Fi drops one second early — a "power" that helps
+nobody, since knowing never prevents it. The twist lands on the last words.
 """
 
 import os
